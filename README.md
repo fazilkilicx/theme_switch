@@ -1,6 +1,6 @@
 # theme_switch
 
-A new Flutter project.
+Example of dark/light theme switch using GetX and SharedPreferences. 
 
 ## Getting Started
 
