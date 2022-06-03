@@ -29,7 +29,7 @@ dev_dependencies:
 
 flutter:
 
-  
+
   uses-material-design: true
 
   # To add custom fonts to your application, add a fonts section here,
