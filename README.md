@@ -1,6 +1,6 @@
 # theme_switch
 
-Example of dark/light theme switch using GetX and SharedPreferences. 
+Flutter example of dark/light theme transition using GetX and SharedPreferences.
 
 ## Screenshoots
 
